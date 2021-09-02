@@ -13,13 +13,13 @@ Syntax highlighted code block
 
 # Donna's First CS193 Homework
 
-#### My favorite things about CS  193
+### My favorite things about CS  193
 - Amazing instructors
 - Learning more about GitHub
 - Opportunity to learn from previous students
 - Exploring more about terminals
 
-#### My favorite things about Purdue
+### My favorite things about Purdue
 1. Amazing ambiance 
 2. Diverse array of student
 3. Welcoming community
